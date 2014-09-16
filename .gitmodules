@@ -1,0 +1,3 @@
+[submodule "bootstrap-tag"]
+	path = bootstrap-tag
+	url = https://github.com/fdeschenes/bootstrap-tag.git
